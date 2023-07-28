@@ -17,13 +17,13 @@ Article3: title:’Article 3’, content:’This is a sample article3’,is_prem
 Use a unique id as a primary key for all the documents in database
 (mongodb will have _id )
 Task Conditions:-
-a. User can sign-up using the sign-up route which will be open to the public.
-b. In sign-up, user can set his number,email, password and name.
-c. User will be able to login using his (number or email) and (password)
-d. User can see all the articles without logging in (except premium articles)
-e. Only logged in user can comment on Articles.
-f. User can opt to become a Premium User by paying some amount.
-g. Only premium users(check by is_premium) can view and comment on premium
+  - User can sign-up using the sign-up route which will be open to the public.
+  - In sign-up, user can set his number,email, password and name.
+  - User will be able to login using his (number or email) and (password)
+  - User can see all the articles without logging in (except premium articles)
+  - Only logged in user can comment on Articles.
+ - User can opt to become a Premium User by paying some amount.
+ -  Only premium users(check by is_premium) can view and comment on premium
 Articles.
 Creating the following routes is must :-
 a. User Login. (/login) POST
