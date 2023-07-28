@@ -1,14 +1,10 @@
-  #TechSTack
-  ### Teck Stack :
+
+  ## Teck Stack :
  - NodeJs
  - Express
  - Mongodb
- - ReactJs
- - Cloudinary
-
    ##
-##Requirements
-Task:
+##Requirements :
 1. Create a REST api backend server using nodejs(preferred)/ any other backend language.
 2. Create a database in mongodb (preferred)/ any other database.
 a. User: name, number, email, password,is_premium_user(boolean type).
