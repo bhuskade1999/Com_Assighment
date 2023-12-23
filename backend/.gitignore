@@ -1,6 +1,6 @@
 /node_modules
 /backend/imp/imp.env
- 
+ /imp/imp.env
 
  backend/node_modules
 
